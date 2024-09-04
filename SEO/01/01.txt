@@ -1,0 +1,20 @@
+SEO:
+Search engine optimization (SEO) is a set of methods aimed at improving the ranking of a 
+website in search engine listings, and could be considered a subset of Internet or Web 
+marketing. The primary purpose of SEO is to get higher rankings on search engines which 
+in turn creates a larger target audience.
+SEO is a long-term strategy that requires ongoing effort and optimization. It is not a
+one-time task, but rather an ongoing process that requires continuous monitoring and
+adjustment. Here are some key points to consider when it comes to SEO:
+1. Keyword research: Conduct thorough keyword research to identify the most relevant and
+highly searched keywords related to your business or product.
+2. On-page optimization: Optimize your website's content, meta tags, and other elements to
+make it search engine friendly.
+3. Content creation: Create high-quality, engaging, and informative content that adds value
+to your audience.
+4. Link building: Build high-quality backlinks from authoritative sources to increase your
+website's authority and ranking.
+5. Technical optimization: Ensure your website is technically sound, with fast loading times,
+responsive design, and mobile-friendliness.
+SEO is a complex and ever-evolving field, and staying up-to-date with the latest best practices
+and algorithm updates is crucial for success.
